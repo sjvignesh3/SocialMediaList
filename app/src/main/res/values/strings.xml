@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SocialMediaList</string>
+    <string-array name="Social_Media">
+        <item>WhatsApp</item>
+        <item>FaceBook</item>
+        <item>Instagram</item>
+        <item>YouTube</item>
+        <item>Pinterest</item>
+        <item>Twitter</item>
+        <item>Telegram</item>
+    </string-array>
+    <string-array name="description">
+        <item>Yet to be added</item>
+        <item>Yet to be added</item>
+        <item>Yet to be added</item>
+        <item>Yet to be added</item>
+        <item>Yet to be added</item>
+        <item>Yet to be added</item>
+        <item>Yet to be added</item>
+    </string-array>
+</resources>
