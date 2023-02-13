@@ -13,7 +13,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import org.jetbrains.annotations.NotNull;
 import org.w3c.dom.Text;
 
-
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
     String data1[],data2[];

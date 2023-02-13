@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerview = findViewById(R.id.recyclerview);
         s1=getResources().getStringArray(R.array.Social_Media);
-        s1=getResources().getStringArray(R.array.description);
+        s2=getResources().getStringArray(R.array.description);
 
         MyAdapter myAdapter = new MyAdapter(this,s1,s2,img);
         recyclerview.setAdapter(myAdapter);
